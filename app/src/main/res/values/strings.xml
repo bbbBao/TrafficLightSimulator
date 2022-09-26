@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Traffic Light Simulator</string>
+    <string name="cycle">Cycle</string>
+    <string name="light">Click the button to begin</string>
+</resources>
